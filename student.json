@@ -1,0 +1,82 @@
+[
+  {
+    "student_id": "2026-IT-01",
+    "student_name": "Juan Dela Cruz",
+    "subject": "Mobile App Dev (Flutter)",
+    "teacher_name": "G. Reyes",
+    "grade": 94,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-02",
+    "student_name": "Maria Clara Linsangan",
+    "subject": "Database Management",
+    "teacher_name": "Bb. Santos",
+    "grade": 89,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-03",
+    "student_name": "Lito Lapid Jr.",
+    "subject": "Object-Oriented Prog",
+    "teacher_name": "G. Bautista",
+    "grade": 82,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-04",
+    "student_name": "Althea Magbanua",
+    "subject": "Web Systems & Tech",
+    "teacher_name": "Gng. Garcia",
+    "grade": 91,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-05",
+    "student_name": "Nathaniel Dimaguiba",
+    "subject": "Networking 1 (CCNA)",
+    "teacher_name": "G. Castro",
+    "grade": 85,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-06",
+    "student_name": "Kristine Hermosa",
+    "subject": "Data Structures & Alg",
+    "teacher_name": "Bb. Mendoza",
+    "grade": 88,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-07",
+    "student_name": "Rodel Nacianceno",
+    "subject": "Cloud Computing",
+    "teacher_name": "G. Dalisay",
+    "grade": 90,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-08",
+    "student_name": "Liza Soberano",
+    "subject": "Information Security",
+    "teacher_name": "Gng. Hope",
+    "grade": 96,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-09",
+    "student_name": "Dingdong Dantes",
+    "subject": "Software Engineering",
+    "teacher_name": "G. Gonzales",
+    "grade": 87,
+    "semester": "2nd Sem"
+  },
+  {
+    "student_id": "2026-IT-10",
+    "student_name": "Angel Locsin",
+    "subject": "Discrete Mathematics",
+    "teacher_name": "Bb. Colmenares",
+    "grade": 83,
+    "semester": "2nd Sem"
+  }
+]
